@@ -1,4 +1,4 @@
-Junction_Num,Junction_Name,Longitude(X),Latitude(Y),Record Date,Flow_Hour,Flow_Rate_Per_Minute
+Junction_Num,Junction_Name,Longitude(X),Latitude(Y),Record Date,Flow_Hour,Flow_Rate_Per_Hour,Flow_Rate_Per_Day
 Junction_1,Saint_Michael_Junction,38.8382,9.0301,12/23/2024,,
 Junction_2,02_Market_Junction,38.8283,9.0354,12/22/2024,,
 Junction_3,Salite_Mehret_Junction,38.8267,9.0259,12/23/2024,,
